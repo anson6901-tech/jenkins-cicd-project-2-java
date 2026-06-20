@@ -29,4 +29,4 @@ class CalculatorTest {
         assertEquals(12, calculator.multiply(3, 4));
     }
 }
-}
+
